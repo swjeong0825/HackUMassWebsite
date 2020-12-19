@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/HackUMassWebsite/static/css/main.b403277d.chunk.css",
+    "main.js": "/HackUMassWebsite/static/js/main.25a29f2b.chunk.js",
+    "main.js.map": "/HackUMassWebsite/static/js/main.25a29f2b.chunk.js.map",
+    "runtime-main.js": "/HackUMassWebsite/static/js/runtime-main.fa03fc87.js",
+    "runtime-main.js.map": "/HackUMassWebsite/static/js/runtime-main.fa03fc87.js.map",
+    "static/js/2.45fca21d.chunk.js": "/HackUMassWebsite/static/js/2.45fca21d.chunk.js",
+    "static/js/2.45fca21d.chunk.js.map": "/HackUMassWebsite/static/js/2.45fca21d.chunk.js.map",
+    "static/js/3.99918105.chunk.js": "/HackUMassWebsite/static/js/3.99918105.chunk.js",
+    "static/js/3.99918105.chunk.js.map": "/HackUMassWebsite/static/js/3.99918105.chunk.js.map",
+    "index.html": "/HackUMassWebsite/index.html",
+    "static/css/main.b403277d.chunk.css.map": "/HackUMassWebsite/static/css/main.b403277d.chunk.css.map",
+    "static/js/2.45fca21d.chunk.js.LICENSE.txt": "/HackUMassWebsite/static/js/2.45fca21d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/HackUMassWebsite/static/media/logo.6ce24c58.svg",
+    "static/media/wiki.5e28b6e0.jpg": "/HackUMassWebsite/static/media/wiki.5e28b6e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa03fc87.js",
+    "static/js/2.45fca21d.chunk.js",
+    "static/css/main.b403277d.chunk.css",
+    "static/js/main.25a29f2b.chunk.js"
+  ]
+}
